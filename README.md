@@ -8,9 +8,9 @@
 
 ### Stakeholders Questions
 
-###### > Risk analysis of accidents based on model
-###### > Purpose of flight analysis that is commercial or private
-###### > Safety performance of aircraft model
+######   Risk analysis of accidents based on model
+######   Purpose of flight analysis that is commercial or private
+######   Safety performance of aircraft model
 
 ### Data source
 
@@ -23,11 +23,11 @@
 
 ### Visualizaton 
 
-###### Risk analysis of accidents based on model ![Screenshots](Pictures/Screenshots/Screenshot (37).png)
+######   Risk analysis of accidents based on model ![Screenshots](Pictures/Screenshots/Screenshot (37).png)
 
-######  Purpose of flight analysis that is commercial or private ![Screenshots](Pictures/Screenshots/Screenshot (38).png)
+######   Purpose of flight analysis that is commercial or private ![Screenshots](Pictures/Screenshots/Screenshot (38).png)
 
-######  Safety performance of aircraft model ![Screenshots](Pictures/Screenshots/Screenshot (39).png)
+######   Safety performance of aircraft model ![Screenshots](Pictures/Screenshots/Screenshot (39).png)
 
 ## Conclusion and Recommndations
 
