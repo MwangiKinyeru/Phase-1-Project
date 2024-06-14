@@ -23,11 +23,11 @@
 
 ### Visualizaton 
 
-######   Risk analysis of accidents based on model ![Screenshots](./Risk Analysis.png)
+######   Risk analysis of accidents based on model ![Risk Analysis](./Risk Analysis.png)
 
-######   Purpose of flight analysis that is commercial or private ![Screenshots](Pictures/Screenshots/Flight Analysis.png)
+######   Purpose of flight analysis that is commercial or private ![Flight Analysis](./Flight Analysis.png)
 
-######   Safety performance of aircraft model ![Screenshots](Pictures/Screenshots/Safety Performance.png)
+######   Safety performance of aircraft model ![Safety Perormance](./Safety Performance.png)
 
 ## Conclusion and Recommndations
 
